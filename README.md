@@ -23,9 +23,7 @@ The application supports concurrent order processing and ensures inventory consi
 * Object Serialization and Deserialization
 * JDBC database connectivity
 * CRUD operations for database records
-
----
-
+  
 ## Java Concepts Used
 
 ### Object-Oriented Programming
